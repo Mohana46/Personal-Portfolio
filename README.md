@@ -10,7 +10,7 @@
 - Acknowledgements
 
 **Demo**
-- click here
+- click here https://mohana-personal-portfolio.netlify.app/
 
 **Features**
 - Responsive design for mobile and desktop
